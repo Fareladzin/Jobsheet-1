@@ -43,7 +43,6 @@ Praktikum 3
 ![Praktikum3](https://github.com/Fareladzin/Jobsheet-1/blob/master/Data.PNG)
 
 
-Modul Lanjutan
 Latihan 1
 ![Latihan1](https://github.com/Fareladzin/Jobsheet-1/blob/master/FungsiDoWhile.PNG)
 
